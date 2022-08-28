@@ -1,10 +1,16 @@
 project:
   type: "website"
-  title: "myproj"
+  title: "mysite"
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "!code/"
+    - "!data/"
+    - "!output"
+    
 
 website:
-  title: "myproj"
+  title: "mysite"
   navbar:
     left: 
       - href: index.qmd
