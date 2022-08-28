@@ -1,6 +1,6 @@
-# cookiecutter-snakemake-workflow
+# cookiecutter-quarto-snakemake-workflow
 
-Cookiecutter template for snakemake workflows and [workflowr](https://github.com/jdblischak/workflowr) documentation. This project template is inspired by this [cookiecutter snakemake project template](https://github.com/snakemake-workflows/cookiecutter-snakemake-workflow) and the suggested project structure for [workflowr](https://jdblischak.github.io/workflowr/articles/wflow-01-getting-started.html) R package for creating a static site from Rmarkdown files. I use the project template as follows:
+Cookiecutter template for snakemake workflows and quarto. 
 
 ### USAGE
 
