@@ -1,0 +1,11 @@
+{
+  "full_name": "Chao Dai",
+  "email": "chaodai@uchicago.edu",
+  "username": "chaodai",
+  "project_name": "RNA-Seq",
+  "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "min_snakemake_version": "6.12.3",
+  "make_conda_env": ["n", "y"],
+  "license": ["MIT", "BSD", "Apache Software License 2.0", "None"],
+  "slurm_parition": "broadwl"
+}
