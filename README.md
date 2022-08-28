@@ -12,7 +12,7 @@ pip install cookiecutter
 
 Start creating a snakemake-workflow from cookiecutter:
 ```
-cookiecutter https://github.com/daiuc/cookiecutter-wflowR-smk.git
+cookiecutter https://github.com/daiuc/cookiecutter-quarto-smk.git
 ```
 
 After filling the prompts, this will create a project template with the following directory structure:
